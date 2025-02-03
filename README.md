@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/xmO6NX7.gif" alt="Banner" width=755px>
+  <img src="https://i.imgur.com/xmO6NX7.gif" alt="Sobre mim" width=755px>
 </div>
 
 
@@ -24,7 +24,7 @@
 <br><br><br>
 
 <div align="center">
-  <img src="https://i.imgur.com/HkKtEAf.gif" alt="Banner" width=755px>
+  <img src="https://i.imgur.com/HkKtEAf.gif" alt="Tecnologias que uso frequentemente" width=755px>
   <h3 align="center">💻 Tecnologias que costumo usar com mais frequência nos meus projetos!</h3>
   
 </div>
@@ -36,7 +36,7 @@
 <br><br><br>
 
 <div align="center">
-  <img src="https://i.imgur.com/AkfqfvF.gif" alt="Banner" width=755px>
+  <img src="https://i.imgur.com/AkfqfvF.gif" alt="Skills" width=755px>
   <h3 align="center">👨‍💻 Tecnologias que já possuo um certo conhecimento.</h3>
   
   ![Badge1](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Badge2](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,7 +47,7 @@
 <br><br><br>
 
 <div align="center">
-  <img src="https://i.imgur.com/GmYOnkv.gif" alt="Banner" width=755px>
+  <img src="https://i.imgur.com/GmYOnkv.gif" alt="Aprendendo" width=755px>
   <h3 align="center"> 📖 Procurando aprender essas tecnologias no momento ou futuramente! </h3>
     
   ![Badge](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -61,7 +61,7 @@
 <br><br><br>
 
 <div align="center">
-  <img src="https://i.imgur.com/plpnR13.gif" alt="Banner" width=755px>
+  <img src="https://i.imgur.com/plpnR13.gif" alt="Contatos" width=755px>
   <h3 align="center">✉ Entre em contato comigo!</h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-ferreira-da-cunha)
