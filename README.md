@@ -27,11 +27,10 @@
   <img src="https://i.imgur.com/HkKtEAf.gif" alt="Tecnologias que uso frequentemente" width=755px>
   <h3 align="center">💻 Tecnologias que costumo usar com mais frequência nos meus projetos!</h3>
   
+   ![Badge1](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Badge2](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
 </div>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70px">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70px">
-</p>
+
 
 <br><br><br>
 
