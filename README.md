@@ -1,64 +1,58 @@
 # 👋 Olá, eu sou o Leonardo!
 
-🎓 Estudante de **Ciência da Computação** na UERJ — buscando sempre resolver problemas através da programação e transformar ideias em soluções eficientes.
+👨‍💻 **Desenvolvedor Back-End Java | Estudante de Ciência da Computação na UERJ**
 
-🚀 Atualmente focado no **Desenvolvimento Back-End em Java**, mas também entusiasta e estudante de **Análise de Dados com Python**.
+Apaixonado por resolver problemas através da programação e transformar ideias em soluções eficientes. Tenho forte foco na construção de APIs robustas, mas também adoro explorar o mundo dos dados e criar novas experiências.
 
 ---
 
-## 📊 GitHub Insights
+## 🚀 Sobre Mim
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Leo-FC&show_icons=true&theme=dark&hide=prs&hide_title=true&bg_color=00000000&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-FC&layout=compact&theme=gruvbox&langs_count=6&bg_color=00000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
+- ☕ Foco principal em **Desenvolvimento Back-End** com o ecossistema Java (Spring Boot, Hibernate, JPA).
+- 🌱 Futuramente busco expandir meus conhecimentos para o **Front-End** (TypeScript, Angular) para me tornar Full-Stack.
+- 💡 Buscando sempre escrever um código limpo, testável e escalável.
+
+---
+
+## 🏆 Projetos em Destaque
+
+*Abaixo alguns dos projetos que desenvolvi:*
+
+- 📝 **[Align To-do](https://github.com/Leo-FC/align-todo)**: Uma RESTful API para gerenciamento de tarefas construída com Java 17, Spring Boot 3, MySQL e JWT, conteinerizada com Docker.
+- 🛒 **[Enterprise Retail System](https://github.com/Leo-FC/outlet-erp)**: Aplicação corporativa Java EE com lógicas de negócio complexas, utilizando JSF, PrimeFaces e CDI.
+- 🌱 **[Sistema Especialista Agrícola](https://github.com/Leo-FC/Sistema-Especialista-Cultivo-Agricola)**: Ferramenta de diagnóstico baseada em regras construída com Python, Flask e a biblioteca Experta.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Back-End (Java)
+### Back-End & Infraestrutura
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### Análise de Dados (Python)
+### Front-End
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Dados & Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-311C87?style=for-the-badge&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Outras
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 🌱 Atualmente aprendendo
+## 📊 GitHub Insights
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data](https://img.shields.io/badge/SpringData-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-E8362B?style=for-the-badge&logo=mockito&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-311C87?style=for-the-badge&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Leo-FC&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo-FC&theme=tokyonight" width="67%" />
+  
+</div>
 
 
 ---
@@ -66,9 +60,6 @@
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ferreira-a62a86346/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.ferreiracontato1@gmail.com)
 
-📧 Email: leonardo.ferreiracontato1@gmail.com
-
----
-
-⭐ Se você curtir algum projeto, sinta-se à vontade para deixar uma estrela e me seguir!
+⭐ *Se você curtir algum projeto, sinta-se à vontade para deixar uma estrela e me seguir!*
